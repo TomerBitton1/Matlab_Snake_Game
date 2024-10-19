@@ -1,5 +1,8 @@
 # Matlab_Snake_Game
 
+
+<img width="556" alt="Game window" src="https://github.com/user-attachments/assets/ddf9ffa7-d54c-48d2-913f-bd9e12e711ff">
+
 1. Introduction
 
 The MATLAB Snake Game is a classic arcade game implemented in MATLAB. It is a text-based game where you control a snake that moves around the game board and tries to eat apples to grow longer. The game is over if the snake collides with the game board's boundaries or itself.
@@ -46,3 +49,5 @@ This is due to the fact that when we click on start the game, the focus of the g
   
 
 Enjoy the game!
+
+
