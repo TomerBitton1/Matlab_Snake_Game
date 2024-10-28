@@ -29,10 +29,10 @@ To get started with the game, follow these steps:
 4. Game Controls
 
 The game is controlled using the following keys:
-- W or ↑: Move the snake up.
-- S or ↓: Move the snake down.
-- A or ←: Move the snake left.
-- D or →: Move the snake right.
+- ↑: Move the snake up.
+- ↓: Move the snake down.
+- ←: Move the snake left.
+- →: Move the snake right.
 
 
 5. Game Rules
