@@ -1,7 +1,8 @@
 # Matlab_Snake_Game
 
 
-<img width="556" alt="Game window" src="https://github.com/user-attachments/assets/ddf9ffa7-d54c-48d2-913f-bd9e12e711ff">
+<img width="556" alt="Game window" src="https://github.com/user-attachments/assets/f41fffb5-ae7e-4def-aac8-2597e31d4183">
+
 
 1. Introduction
 
